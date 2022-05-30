@@ -1,1 +1,2 @@
-C-x X-f
+#!/bin/bash
+rev
